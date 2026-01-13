@@ -1,0 +1,29 @@
+{
+    "info_dict": {
+        "name": "Ophiuchus",
+        "sn_per_region": 70,
+        "reg_smoothness": 100.0,
+        "cluster_directory": "./data",
+        "parent_directory": "./parent",
+        "obs_ids": [
+            "16626",
+            "16627",
+            "16464",
+            "16142",
+            "16143"
+        ]
+    },
+    "flags": {
+        "reprocessed": false,
+        "flare_filtered": false,
+        "merge_data": false,
+        "flux_maps": false,
+        "remove_point_source": false,
+        "countour_binning": false,
+        "convert_region_coordinates": false,
+        "extract_spectra": false,
+        "xspec_fitting": false,
+        "parse_results": false,
+        "maps_created": false
+    }
+}
